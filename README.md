@@ -23,3 +23,5 @@ Modul de a-l juca:  prin miscarea de Joystick va porni jocul
 
 Elemente auxiliare: Joystick
 			    Liquid Crystal Display
+
+youtube link: https://www.youtube.com/watch?v=vr0G1ZMDnr8
